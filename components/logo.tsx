@@ -28,7 +28,7 @@ export function Logo({ variant = "dark", showWordmark = true, className }: LogoP
         role="img"
         aria-hidden="true"
         className={cn(
-          "h-10 w-[68px] transition-transform duration-300 group-hover:-translate-y-0.5",
+          "h-9 w-[62px] transition-transform duration-300 group-hover:-translate-y-0.5",
           markColor
         )}
         style={{
